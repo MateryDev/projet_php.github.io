@@ -1,0 +1,29 @@
+# Fichiers de configuration
+config.php
+config.json
+
+# Fichiers de cache
+cache/
+tmp/
+
+# Fichiers de logs
+logs/
+
+# Fichiers de données de test
+test_data/
+
+# Fichiers de documentation
+docs/
+
+# Fichiers de build
+build/
+dist/
+
+# Fichiers de node_modules
+node_modules/
+
+# Fichiers de vendor
+vendor/
+
+# Fichiers de .env
+.env
